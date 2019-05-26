@@ -1,3 +1,5 @@
+Link to original repository: https://github.com/JLaoo/My-Anime-List-Current-Season-CSV-generator
+
 # My Anime List Current Season CSV generator
 
 Generates a CSV file for the current season of airing anime from myanimelist.net
